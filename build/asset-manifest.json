@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e64285b9.css",
+    "main.js": "/static/js/main.0b59a5e5.js",
+    "static/js/787.4d88937a.chunk.js": "/static/js/787.4d88937a.chunk.js",
+    "static/media/bg1.jpg": "/static/media/bg1.6291ae44940417b91553.jpg",
+    "static/media/farCry6.jpg": "/static/media/farCry6.4631bd9fc2b97e094f92.jpg",
+    "static/media/valorant.jpg": "/static/media/valorant.03f59f1a0f749b1236d3.jpg",
+    "static/media/bg4.jpg": "/static/media/bg4.b86f670829fdf32cc8f7.jpg",
+    "static/media/bg5.jpg": "/static/media/bg5.130340e1c05a2b9b8580.jpg",
+    "static/media/bg6.jpg": "/static/media/bg6.78ae91f8d3ea04cef008.jpg",
+    "static/media/minecraft.jpg": "/static/media/minecraft.f080a780ff48512fb678.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.1b6b4b5ba02d81a22844.jpg",
+    "static/media/lol.jpg": "/static/media/lol.a31da107c8a77dbe4432.jpg",
+    "static/media/wow.jpg": "/static/media/wow.532af0c3a5eb500fbef7.jpg",
+    "static/media/olliworld.jpg": "/static/media/olliworld.731905f0942668db93ce.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.e4badd3bb602717c41c4.jpg",
+    "index.html": "/index.html",
+    "main.e64285b9.css.map": "/static/css/main.e64285b9.css.map",
+    "main.0b59a5e5.js.map": "/static/js/main.0b59a5e5.js.map",
+    "787.4d88937a.chunk.js.map": "/static/js/787.4d88937a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64285b9.css",
+    "static/js/main.0b59a5e5.js"
+  ]
+}
